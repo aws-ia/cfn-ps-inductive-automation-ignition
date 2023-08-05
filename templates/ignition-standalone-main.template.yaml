@@ -8,6 +8,7 @@ Metadata:
         - E9101
         - W9002
         - W9003
+        - W3005
   AWS::CloudFormation::Interface:
     ParameterGroups:
     - Label:
